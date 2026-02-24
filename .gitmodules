@@ -1,3 +1,6 @@
 [submodule "c++/c++/memalloc"]
 	path = c++/c++/memalloc
 	url = https://github.com/arjun024/memalloc
+[submodule "c++/memalloc"]
+	path = c++/memalloc
+	url = https://github.com/arjun024/memalloc
